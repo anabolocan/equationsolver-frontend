@@ -51,7 +51,7 @@ class EquationSolverComponent extends React.Component {
     render() {
         return (
 
-            <div>
+            <div className="mt-3">
                 <form className="form-inline" onSubmit={this.onSubmit}>
                     <div className="row align-items-center justify-content-center">
                         <div className="col-auto">
