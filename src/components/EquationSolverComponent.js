@@ -97,7 +97,7 @@ class EquationSolverComponent extends React.Component {
                         </div>
 
                         <div className="col-auto">
-                            <div className="form-check mb-2">
+                            <div className="form-check mt-3">
                                 <input
                                     className="form-check-input"
                                     type="checkbox"
@@ -112,7 +112,7 @@ class EquationSolverComponent extends React.Component {
                             </div>
                         </div>
                         <div className="col-auto">
-                            <button type="submit" className="btn btn-primary mb-2">Submit</button>
+                            <button type="submit" className="btn btn-primary mt-2">Submit</button>
                         </div>
                     </div>
                 </form>
